@@ -2,7 +2,7 @@
 
 require 'helper'
 
-class Nanoc::Capturing::FilterTest < Minitest::Test
+class Nanoc::Capturing::HelperTest < Minitest::Test
 
   include Nanoc::Capturing::Helper
 
